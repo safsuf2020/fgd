@@ -1,1 +1,40 @@
+<?xml version="1.0" ?>
+<PianoFromAbove>
+    <Visual KeysShown="0" AlwaysShowControls="0" AssociateFiles="0" FirstKey="21" LastKey="108">
+        <Colors>
+            <Color R="0" G="0" B="0" />
+            <Color R="125" G="90" B="30" />
+            <Color R="0" G="190" B="255" />
+            <Color R="255" G="190" B="129" />
+            <Color R="125" G="90" B="30" />
+            <Color R="228" G="51" B="255" />
+            <Color R="153" G="255" B="51" />
+            <Color R="75" G="51" B="255" />
+            <Color R="255" G="204" B="51" />
+            <Color R="51" G="180" B="255" />
+            <Color R="255" G="51" B="51" />
+            <Color R="51" G="255" B="177" />
+            <Color R="255" G="51" B="204" />
+            <Color R="78" G="255" B="51" />
+            <Color R="153" G="51" B="255" />
+            <Color R="231" G="255" B="51" />
+        </Colors>
+        <BkgColor R="48" G="48" B="48" />
+    </Visual>
+    <Audio />
+    <Video Renderer="1" ShowFPS="0" LimitFPS="1" />
+    <Controls FwdBackSecs="3" SpeedUpPct="10">
+        <KeyboardMap />
+    </Controls>
+    <Library AlwaysAdd="0" SortCol="1">
+        <Sources>
+            <Source Name="C:\Users\smaje\Music" Type="1" />
+            <Source Name="C:\Users\smaje\Music\Piano From Above" Type="2" />
+            <Source Name="C:\Users\smaje\OneDrive\Desktop" Type="1" />
+            <Source Name="C:\Users\smaje\OneDrive\Documents" Type="1" />
+        </Sources>
+    </Library>
+    <Playback LearnMode="1" Mute="0" Volume="1" NoteSpeed="0.630394" Metronome="0" />
+    <View Library="1" Controls="1" Keyboard="1" NoteLabels="0" OnTop="0" OffsetX="0" OffsetY="0" ZoomX="1" MainLeft="-8" MainTop="-8" MainWidth="640" MainHeight="1039" LibWidth="176" />
+</PianoFromAbove>
 
